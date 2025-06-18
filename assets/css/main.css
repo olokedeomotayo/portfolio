@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #1F2A44 !important;
 		}
 
 	strong, b {
@@ -1759,7 +1759,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #aaa;
+		color: #fff;
 		position: relative;
 		margin: 0 0 1.6875em 0;
 	}
@@ -1785,7 +1785,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #1F2A44;
 		font-size: 3.5em;
 	}
 
