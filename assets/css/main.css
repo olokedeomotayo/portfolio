@@ -2633,7 +2633,7 @@ input, select, textarea {
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #39c29d;
+				background-color: #1F2A44;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2808,7 +2808,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4acaa8 !important;
+							color: #1F2A44 !important;
 						}
 
 					#header > nav ul li:first-child {
